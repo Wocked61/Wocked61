@@ -11,4 +11,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Wocked61&icon=10&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<summary>Check out this seal!!!</summary>
+![seal-money-spread-v0-q8t4plakx8ge1](https://github.com/user-attachments/assets/dba28180-a063-498b-bcd6-875c2c917446)
+</details>
