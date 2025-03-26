@@ -25,6 +25,8 @@
 
 <details>
 <summary>Check out this seal!!!</summary>
-<img src="https://preview.redd.it/seal-money-spread-v0-q8t4plakx8ge1.png?auto=webp&s=5a701982f33fea1c0a50c580e17c9ad3e1f4dbcc" width="500" height="500">
+<p align="center">
+  <img src="https://preview.redd.it/seal-money-spread-v0-q8t4plakx8ge1.png?auto=webp&s=5a701982f33fea1c0a50c580e17c9ad3e1f4dbcc" width="500" height="500">
+</p>
 
 </details>
