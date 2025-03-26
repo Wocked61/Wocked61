@@ -2,9 +2,9 @@
 🎓 Third-year Computer Science student at California State University, Fullerton, passionate about coding and problem-solving.</br><br>💻 Skilled in C++, Python, and Java, constantly learning new technologies.</br><br>🔍 Currently working on software development, web development (React), and data analysis projects.</br><br>🔭 I'm working on learning frontend and APIs currently; my projects will be using pokeapi and a checkers/chess full-stack website </br><br>🌱 Learning about full-stack development and cloud computing and refining my skills in software engineering practices.</br><br>🚀 Seeking internship opportunities to apply my skills and grow in a collaborative environment.</br><br>⚡ Fun fact: I occasionally contribute to game testing projects at Good Gamer Group, lending my skills whenever needed.</br><br>🔗 Check out my [Linktree](https://linktr.ee/Wocked61) for most of my links</br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wocked61/wocked61/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wocked61/wocked61/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wocked61/wocked61/output/github-snake.svg" />
 </picture>
 
 ## 🌐 Socials:
